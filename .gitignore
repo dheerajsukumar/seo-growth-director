@@ -54,4 +54,6 @@ coverage/
 *.orig
 
 # Claude Local Files
-.claude/
+.claude/*
+!.claude/skills/
+!.claude/skills/**
