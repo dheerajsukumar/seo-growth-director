@@ -1,0 +1,57 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# IDEs
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+.env.*
+
+# Temporary Files
+tmp/
+temp/
+
+# Build
+dist/
+build/
+
+# Coverage
+.coverage
+coverage/
+
+# OS Generated Files
+.Trashes/
+.Spotlight-V100/
+
+# Markdown Editor Backups
+*.bak
+*.orig
+
+# Claude Local Files
+.claude/
