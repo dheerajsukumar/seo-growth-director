@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+  <img src="assets/github-hero-banner.png" width="100%">
+</p>
 
 # 🚀 SEO Growth Director
 
