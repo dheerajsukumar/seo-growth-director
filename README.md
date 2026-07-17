@@ -308,3 +308,182 @@ The architecture is based on five core engineering principles:
 - Executive-focused communication
 
 This modular architecture allows the skill to scale without becoming a large, unstructured prompt.
+---
+
+# 🔄 Workflow Intelligence Engine
+
+Unlike traditional AI prompts, SEO Growth Director never jumps directly to an answer.
+
+Every request follows a structured enterprise workflow.
+
+```text
+User Request
+      │
+      ▼
+Business Objective Detection
+      │
+      ▼
+Workflow Classification
+      │
+      ▼
+Knowledge Loading
+      │
+      ▼
+Reference Selection
+      │
+      ▼
+Template Selection
+      │
+      ▼
+Execution Scripts
+      │
+      ▼
+Quality Validation
+      │
+      ▼
+Executive Output
+```
+
+## Workflow Sequence
+
+1. Detect business objective
+2. Classify SEO problem
+3. Select workflow
+4. Load references
+5. Load examples
+6. Load templates
+7. Execute reasoning
+8. Validate quality
+9. Generate executive deliverable
+
+---
+
+## Available Workflows
+
+| Workflow | Purpose |
+|-----------|----------|
+| Technical SEO | Enterprise technical audits |
+| Content Strategy | Content planning & optimization |
+| Keyword Research | Search opportunity discovery |
+| Competitor Analysis | Market intelligence |
+| AI Search (GEO) | AI visibility optimization |
+| Entity SEO | Knowledge Graph optimization |
+| Local SEO | Local business growth |
+| Website Migration | SEO-safe migrations |
+| Executive Reporting | Board-ready reporting |
+---
+
+# 🚀 Installation
+
+SEO Growth Director is designed to work with **Claude Desktop**, **Claude Code**, and **Claude CoWork**.
+
+## Requirements
+
+- Claude Desktop
+- Claude Code (optional)
+- Claude CoWork (optional)
+- Git
+- GitHub
+
+---
+
+## Installation
+
+### Step 1
+
+Clone the repository.
+
+```bash
+git clone https://github.com/dheerajsukumar/seo-growth-director.git
+```
+
+---
+
+### Step 2
+
+Open the project.
+
+```bash
+cd seo-growth-director
+```
+
+---
+
+### Step 3
+
+Locate the Claude Skill.
+
+```text
+.claude/
+└── skills/
+    └── seo-growth-director/
+```
+
+---
+
+### Step 4
+
+Open Claude Desktop.
+
+Navigate to:
+
+Settings
+
+↓
+
+Skills
+
+↓
+
+Upload Skill
+
+Select:
+
+```text
+.claude/skills/seo-growth-director
+```
+
+---
+
+### Step 5
+
+Restart Claude Desktop.
+
+The skill is now available.
+
+---
+
+# ⚡ Quick Start
+
+Ask Claude:
+
+```text
+Use the seo-growth-director skill.
+
+Perform a complete enterprise SEO audit.
+```
+
+Or
+
+```text
+Use the seo-growth-director skill.
+
+Build a 90-day SEO roadmap.
+```
+
+Or
+
+```text
+Use the seo-growth-director skill.
+
+Review my AI Search visibility.
+```
+
+Within seconds, Claude will automatically:
+
+- Detect your business objective
+- Select the appropriate workflow
+- Load the required knowledge
+- Apply enterprise templates
+- Execute validation
+- Produce an executive-ready deliverable
