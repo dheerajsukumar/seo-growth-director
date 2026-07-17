@@ -487,3 +487,123 @@ Within seconds, Claude will automatically:
 - Apply enterprise templates
 - Execute validation
 - Produce an executive-ready deliverable
+---
+
+# 💬 Example Prompts
+
+Below are examples of how to interact with SEO Growth Director.
+
+## Technical SEO
+
+```text
+Use the seo-growth-director skill.
+
+Perform a complete Technical SEO Audit for https://example.com
+
+Include:
+
+• Crawlability
+• Indexability
+• Core Web Vitals
+• Structured Data
+• Internal Linking
+• Priority Matrix
+• Executive Summary
+```
+
+---
+
+## AI Search (GEO)
+
+```text
+Use the seo-growth-director skill.
+
+Analyze my website for AI Search visibility.
+
+Evaluate:
+
+• Google AI Overviews
+• ChatGPT
+• Claude
+• Gemini
+• Perplexity
+• Entity SEO
+
+Provide an Executive GEO Report.
+```
+
+---
+
+## Content Strategy
+
+```text
+Use the seo-growth-director skill.
+
+Build a complete topical authority strategy for my website.
+
+Include:
+
+• Topic Clusters
+• Pillar Pages
+• Supporting Content
+• Internal Linking
+• E-E-A-T Recommendations
+```
+
+---
+
+## Executive SEO Report
+
+```text
+Use the seo-growth-director skill.
+
+Create a board-level Executive SEO Report.
+
+Include:
+
+• Business Summary
+• Technical Risks
+• SEO Opportunities
+• Revenue Impact
+• 90-Day Roadmap
+• KPI Dashboard
+```
+
+---
+
+## Competitor Analysis
+
+```text
+Use the seo-growth-director skill.
+
+Compare my website against my top three competitors.
+
+Identify:
+
+• Keyword Gaps
+• AI Search Visibility
+• Entity Coverage
+• Content Opportunities
+• Technical Advantages
+```
+
+---
+
+## Website Migration
+
+```text
+Use the seo-growth-director skill.
+
+Prepare a complete SEO Migration Plan.
+
+Include:
+
+• Redirect Strategy
+• Crawl Validation
+• Canonical Review
+• XML Sitemap
+• QA Checklist
+• Rollback Plan
+```
+
+---
