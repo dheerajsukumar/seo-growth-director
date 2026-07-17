@@ -892,3 +892,97 @@ Designed for use with:
 | `docs/` | Additional documentation |
 
 ---
+---
+
+# 🛣 Roadmap
+
+SEO Growth Director follows a continuous improvement roadmap focused on enterprise SEO and AI Search.
+
+| Version | Status | Highlights |
+|---------|--------|------------|
+| ✅ v1.0.0 | Released | Enterprise SEO Foundation, Workflow Intelligence, Technical SEO, AI Search (GEO), Entity SEO |
+| 🚧 v1.1.0 | In Progress | Enterprise Decision Engine, Advanced Workflow Routing, Industry Frameworks |
+| 📅 v1.2.0 | Planned | AI Search Intelligence, Entity Graph Builder, Citation Optimization |
+| 🔮 v2.0.0 | Vision | Enterprise AI SEO Operating System with Autonomous Strategy & Multi-Agent Workflows |
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome.
+
+We encourage contributions including:
+
+- Enterprise SEO frameworks
+- AI Search (GEO) methodologies
+- Technical SEO improvements
+- Workflow enhancements
+- Documentation improvements
+- Example deliverables
+- Templates
+- Bug fixes
+
+If you'd like to contribute:
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Submit a Pull Request
+
+---
+
+# 📜 License
+
+This project is released under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+# ⭐ Support the Project
+
+If this project helps you:
+
+⭐ Star this repository
+
+🍴 Fork the project
+
+💬 Share it with the SEO and AI community
+
+📢 Recommend improvements by opening an Issue
+
+Your support helps improve SEO Growth Director for everyone.
+
+---
+
+# 👨‍💻 Author
+
+**Dheeraj Sukumar**
+
+Founder • Entrepreneur • Fractional CMO • AI Strategist
+
+Founder of:
+
+- 360 Auto
+- Grow With SEO
+- AI For Kerala
+
+---
+
+# 🌍 Vision
+
+SEO is rapidly evolving from traditional search optimization to AI-powered discovery.
+
+SEO Growth Director aims to become the world's most comprehensive open-source Enterprise SEO Skill for Claude, helping businesses optimize for Google Search, AI Search, Entity SEO, and future search experiences through structured workflows and enterprise-grade intelligence.
+
+---
+
+<div align="center">
+
+### 🚀 Built for Google. Designed for AI Search.
+
+**Enterprise AI SEO Operating System for Claude**
+
+Made with ❤️ by Dheeraj Sukumar
+
+</div>
