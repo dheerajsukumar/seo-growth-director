@@ -830,3 +830,65 @@ Reusable enterprise templates for:
 Reference-quality deliverables demonstrating enterprise output standards.
 
 ---
+---
+
+# 📚 Documentation & Resources
+
+SEO Growth Director is built using a modular architecture. Each component has a dedicated responsibility to ensure scalability, maintainability, and enterprise-grade output quality.
+
+## Core Documentation
+
+| Resource | Description |
+|----------|-------------|
+| **SKILL.md** | Defines the identity, mission, behavior, capabilities and workflow of the skill. |
+| **Identity** | Establishes the Enterprise SEO Director persona and operating principles. |
+| **References** | Core knowledge base covering Technical SEO, AI Search (GEO), Entity SEO and Enterprise SEO frameworks. |
+| **Scripts** | Workflow selection, audit validation and quality assurance logic. |
+| **Templates** | Standardized templates for audits, executive reports and implementation roadmaps. |
+| **Examples** | Reference-quality deliverables demonstrating enterprise output standards. |
+
+---
+
+## Enterprise Knowledge Areas
+
+SEO Growth Director currently covers:
+
+- Technical SEO
+- AI Search (Generative Engine Optimization)
+- Entity SEO
+- Semantic SEO
+- Content Strategy
+- Keyword Research
+- Competitor Intelligence
+- Local SEO
+- Ecommerce SEO
+- Website Migration
+- Executive Reporting
+- Workflow Intelligence
+
+---
+
+## Supported Platforms
+
+Designed for use with:
+
+- Claude Desktop
+- Claude Code
+- Claude CoWork
+
+---
+
+## Repository Resources
+
+| Folder | Purpose |
+|---------|----------|
+| `.claude/skills/` | Claude Skill implementation |
+| `identity/` | Skill identity & persona |
+| `references/` | Knowledge repository |
+| `scripts/` | Decision engine |
+| `examples/` | Example outputs |
+| `templates/` | Enterprise templates |
+| `assets/` | Images & branding |
+| `docs/` | Additional documentation |
+
+---
