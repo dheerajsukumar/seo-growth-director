@@ -730,3 +730,103 @@ Every report follows a consistent enterprise structure:
 9. Next Steps
 
 ---
+---
+
+# 📂 Repository Structure
+
+```text
+seo-growth-director/
+│
+├── .claude/
+│   └── skills/
+│       └── seo-growth-director/
+│           │
+│           ├── SKILL.md
+│           │
+│           ├── identity/
+│           │     └── role.md
+│           │
+│           ├── references/
+│           │     ├── seo-principles.md
+│           │     ├── ai-search-framework.md
+│           │     ├── workflow-map.md
+│           │     ├── output-standards.md
+│           │     └── repository-map.md
+│           │
+│           ├── scripts/
+│           │     ├── workflow-selector.md
+│           │     ├── audit-checklist.md
+│           │     └── quality-check.md
+│           │
+│           ├── examples/
+│           │     ├── technical-seo-audit.md
+│           │     ├── keyword-research.md
+│           │     └── executive-report.md
+│           │
+│           ├── templates/
+│           │     ├── audit-template.md
+│           │     ├── executive-template.md
+│           │     └── roadmap-template.md
+│           │
+│           └── assets/
+│
+├── assets/
+│     ├── hero-banner.png
+│     ├── architecture.png
+│     ├── workflow.png
+│     └── social-preview.png
+│
+├── docs/
+│
+├── LICENSE
+│
+└── README.md
+```
+
+---
+
+## Repository Highlights
+
+### Identity Layer
+
+Defines the Enterprise SEO Director persona.
+
+---
+
+### References
+
+Enterprise SEO knowledge including:
+
+- Technical SEO
+- AI Search (GEO)
+- Entity SEO
+- Workflow Intelligence
+- Output Standards
+
+---
+
+### Scripts
+
+Decision engine powering:
+
+- Workflow selection
+- Audit validation
+- Quality assurance
+
+---
+
+### Templates
+
+Reusable enterprise templates for:
+
+- SEO Audits
+- Executive Reports
+- Implementation Roadmaps
+
+---
+
+### Examples
+
+Reference-quality deliverables demonstrating enterprise output standards.
+
+---
